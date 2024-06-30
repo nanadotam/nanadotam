@@ -1,6 +1,12 @@
 <h1 align="center">Hey there 👋🏾, I'm Nana Amoako🇬🇭</h1>
 <h3 align="center">I create amazing things.</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
 <!--
 **nanadotam/nanadotam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
