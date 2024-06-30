@@ -1,8 +1,7 @@
 <h1 align="center">Hey there 👋🏾, I'm Nana Amoako🇬🇭</h1>
 <h3 align="center">I create amazing things.</h3>
 
-![snake gif](https://github.com/nanadotam/nanadotam/blob/output/github-contribution-grid-snake.gif)
-
+<a href=#><img src="contributions.svg"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
