@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋🏾, I'm Nana Amoako</h1>    
   
-<h2 align="center">Cooking mindblowing things.</h3>
+<h3 align="center">Cooking mindblowing things.</h3>
 
 
 <picture>
