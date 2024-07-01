@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋🏾, I'm Nana Amoako</h1>
-<h3 align="center">I create amazing things.</h3>
+<h3 align="center">Cooking mindblowing things.</h3>
 
 
 <picture>
