@@ -8,6 +8,11 @@
   <img alt="github contribution grid snake animation" src="https://github.com/nanadotam/nanadotam/blob/e8ec42dcb32f1426efdbfae9dbff7f85b163da20/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nanadotam/count.svg" alt="Visitor Count"/>
+</div>
+
+
 
 <!--
 
